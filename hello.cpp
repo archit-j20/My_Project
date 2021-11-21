@@ -1,6 +1,6 @@
 #include<iostream>
 int main()
 {
-    std::cout<<"Hello , Greetings from Archit.....!"<<std::endl;
+    std::cout<<"Hello , Greetings"<<std::endl;
     return 0;
 }
