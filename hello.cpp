@@ -1,6 +1,7 @@
 #include<iostream>
+using namespace std;
 int main()
 {
-    std::cout<<"Hello , sampling Greetings"<<std::endl;
+    cout<<"Hello , sampling Greetings"<<endl;
     return 0;
 }
