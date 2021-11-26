@@ -5,4 +5,5 @@ FROM python:3.7-alpine
 COPY greetings.py /
 
 #execute the executable file for final output
-CMD ["python" , "greetings.py"]
+#CMD ["python" , "greetings.py"]
+CMD ["top"]
